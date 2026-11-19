@@ -1,0 +1,8 @@
+torch==2.7.1
+numpy==1.26.4
+pandas==2.2.2
+pvlib==0.15.1
+scipy==1.14.1
+h5py==3.12.1
+netCDF4==1.7.1.post2
+cftime==1.6.4
