@@ -1,7 +1,7 @@
 
-# CARE-GeoRadCast Demo
+# CARE-GeoRadCast
 
-Source code for satellite-based solar radiation nowcasting.
+CARE-GeoRadCast uses recent geostationary satellite observations to forecast surface solar radiation (SSR) at multiple future lead times, covering up to three hours ahead.
 
 ## About CARE
 
